@@ -1,0 +1,10 @@
+1. pandas
+2. numpy
+3. re
+4. string
+5. emoji
+6. sklearn
+7. nltk
+8. gensim
+9. tqdm
+10. matplotlib
